@@ -3,6 +3,8 @@
  
 Published by Sino-Exchange Monthly (ISSN：1005-2623),2020
 
+website:https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwODMxEg16d2psMjAxOTQ2MTAxGgg1M3dycndqeg%3D%3D
+
 Regional economic vitality is as a pivotal indicator, reflecting both the economic robustness and competitive edge of a city. Its significance extends beyond the city level, playing a crucial role in the broader spectrum of national economic development. Drawing from economic theory, I identified a set of factors that influence a city's economic vitality. Employing principal component analysis, a mathematical model, I explored the interrelationships among 13 key factors and their impact on regional economic vitality.
 
 Through this analysis, I isolated 5 principal components along with their respective weights, showcasing the efficacy and influence of these factors through robust representations. This led to a comprehensive formula, which I applied to rank the economic vitality of 19 cities. Additionally, I employed the control variable method to investigate the impact of economic transformation on Shenzhen's economic vitality, examining both short-term fluctuations and long-term trends. Comparisons between the economic data of Shenzhen and China were made to underscore their lasting influence.
